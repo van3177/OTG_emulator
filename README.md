@@ -36,7 +36,7 @@ HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
 
 <img width="1064" height="414" alt="image" src="https://github.com/user-attachments/assets/b067c6f7-fd98-4a5f-8ef1-a3d0e5b29d98" />
 
--> Sau khi đã kết nối được thì thao tác tiếp theo y hệt Cách 1
+-> Sau khi đã kết nối được thì thao tác tiếp theo y hệt cách 1
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
