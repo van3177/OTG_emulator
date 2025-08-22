@@ -1,5 +1,5 @@
 # OTG_emulator
-- Bước 1: Nhập key kích hoạt được cung cấp:
+<span style="color:red; font-weight:bold">- Bước 1: Nhập key kích hoạt được cung cấp:</span>
 
 <img width="489" height="162" alt="image" src="https://github.com/user-attachments/assets/76cf22fa-47ef-408e-8813-cc36d0cb59d4" />
 
