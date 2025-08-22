@@ -51,6 +51,7 @@ HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
 - NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO: Cấu hình -> Nhập -> {Nhập code} -> Nhập khẩu -> Chọn dòng chứa setting vừa nhập
 
 - Lưu ý:
+- 
 -> Sau khi khởi động lại điện thoại mà GG mouse pro nó không được kích hoạt, nếu sài cách active qua wifi thì vô cài đặt nhà phát triển bật lại gỡ lỗi qua wifi, nếu sài active qua Shizuku thì chỉ cần bấm Active Shizuku lại trên app OTG emulator là được
   
 -> Khuyến nghị 2 ngày khởi động lại điện thoại 1 lần để tránh lỗi độ nhạy trong game làm ảnh hưởng trải nghiệm nhé !!!
