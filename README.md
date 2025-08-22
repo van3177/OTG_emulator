@@ -19,4 +19,9 @@
 
 - Bước 5: Kích hoạt GG mouse pro: (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA)
 
-- Những hướng dẫn sử dụng cơ bản về GG mouse pro:
+* NHỮNG HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
+- SETUP KEYMAP:
+
+<img width="939" height="423" alt="image" src="https://github.com/user-attachments/assets/6617d18e-51f3-4b2b-bf71-e808a8a6f34c" />
+
+- ẨN GỢI Ý PHÍM: Cài đặt -> Cài đặt cơ bản -> Hiển thị Hud -> Tắt
