@@ -1,9 +1,10 @@
 # OTG_emulator
 Bước 1: Nhập key kích hoạt được cung cấp:
 
-<img width="487" height="157" alt="image" src="https://github.com/user-attachments/assets/ec4a14b6-8bc3-44c3-b92b-25b16f68afbc" />
+<img width="489" height="162" alt="image" src="https://github.com/user-attachments/assets/76cf22fa-47ef-408e-8813-cc36d0cb59d4" />
 
 Bước 2: Kích hoạt chế độ nhà phát triển và bật gỡ lỗi USB trên android (tuỳ vào từng dòng máy, mọi người có thể lên google để tham khảo nha !!!)
+
 Bước 3: 
 - Kết nối điện thoại vào máy tính qua dây cáp:
 
