@@ -32,7 +32,7 @@ HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
 
 <img width="646" height="415" alt="image" src="https://github.com/user-attachments/assets/19ca722e-70ee-47ed-b62b-e8dd01517918" />
 
--Cách 3: Điều khiển qua wifi (Không khuyến khích vì độ trễ phụ thuộc vào cường độ wifi, dễ bị hiện tượng độ trễ cao)
+- Cách 3: Điều khiển qua wifi (Không khuyến khích vì độ trễ phụ thuộc vào cường độ wifi, dễ bị hiện tượng độ trễ cao)
 
 <img width="1064" height="414" alt="image" src="https://github.com/user-attachments/assets/b067c6f7-fd98-4a5f-8ef1-a3d0e5b29d98" />
 
@@ -42,10 +42,15 @@ HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
 
 HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
 
--> SETUP KEYMAP:
+- SETUP KEYMAP:
 
 <img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/a919dd89-d677-4b33-a614-c2173041ac0c" />
 
--> ẨN GỢI Ý PHÍM: Cài đặt -> Cài đặt cơ bản -> Hiển thị Hud -> Tắt
+- ẨN GỢI Ý PHÍM: Cài đặt -> Cài đặt cơ bản -> Hiển thị Hud -> Tắt
 
--> NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO: Cấu hình -> Nhập -> {Nhập code} -> Nhập khẩu -> Chọn dòng chứa setting vừa nhập
+- NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO: Cấu hình -> Nhập -> {Nhập code} -> Nhập khẩu -> Chọn dòng chứa setting vừa nhập
+
+- Lưu ý:
+-> Sau khi khởi động lại điện thoại mà GG mouse pro nó không được kích hoạt, nếu sài cách active qua wifi thì vô cài đặt nhà phát triển bật lại gỡ lỗi qua wifi, nếu sài active qua Shizuku thì chỉ cần bấm Active Shizuku lại trên app OTG emulator là được
+  
+-> Khuyến nghị 2 ngày khởi động lại điện thoại 1 lần để tránh lỗi độ nhạy trong game làm ảnh hưởng trải nghiệm nhé !!!
