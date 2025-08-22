@@ -28,3 +28,5 @@
 <img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/a919dd89-d677-4b33-a614-c2173041ac0c" />
 
 -> ẨN GỢI Ý PHÍM: Cài đặt -> Cài đặt cơ bản -> Hiển thị Hud -> Tắt
+
+-> NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO:Cấu hình -> Nhập -> {Nhập code share keymap} -> Nhập khẩu -> Chọn dòng chứa setting vừa nhập
