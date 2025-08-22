@@ -27,4 +27,4 @@
 
 -> ẨN GỢI Ý PHÍM: Cài đặt -> Cài đặt cơ bản -> Hiển thị Hud -> Tắt
 
--> NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO: Cấu hình -> Nhập -> {Nhập code share keymap} -> Nhập khẩu  -> Chọn dòng chứa setting vừa nhập
+-> NHẬP MÃ SETTING PHÍM TRÊN GG MOUSE PRO: Cấu hình -> Nhập -> {Nhập code} -> Nhập khẩu -> Chọn dòng chứa setting vừa nhập
