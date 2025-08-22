@@ -1,4 +1,7 @@
 # OTG_emulator
+
+HƯỚNG DẪN CÀI ĐẶT:
+
 - Bước 1: Nhập key kích hoạt được cung cấp:
 
 <img width="489" height="162" alt="image" src="https://github.com/user-attachments/assets/76cf22fa-47ef-408e-8813-cc36d0cb59d4" />
@@ -19,7 +22,20 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-- NHỮNG HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
+HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
+
+- Kết nối qua ADB (Khuyên dùng):
+
+<img width="646" height="415" alt="image" src="https://github.com/user-attachments/assets/bd2005fd-de9c-439b-9633-b2b3898ae264" />
+
+- Mô phỏng OTG (Không khuyến khích sử dụng vì dễ gây lag): Với lựa chọn này chỉ cần bạn bật được gỡ lỗi USB rồi bấm vào nút này là được nhé, lưu ý cách kết nối này chỉ hỗ trợ kết nối bàn phím và chuột, không hỗ trợ âm thanh, màn hình
+
+<img width="646" height="415" alt="image" src="https://github.com/user-attachments/assets/19ca722e-70ee-47ed-b62b-e8dd01517918" />
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
 
 -> SETUP KEYMAP:
 
