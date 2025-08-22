@@ -24,14 +24,19 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
 
-- Kết nối qua ADB (Khuyên dùng):
+- Cách 1: Điều khiển qua dây cáp (Khuyên dùng):
 
 <img width="646" height="415" alt="image" src="https://github.com/user-attachments/assets/bd2005fd-de9c-439b-9633-b2b3898ae264" />
 
-- Mô phỏng OTG (Không khuyến khích sử dụng vì dễ gây lag): Với lựa chọn này chỉ cần bạn bật được gỡ lỗi USB rồi bấm vào nút này là được nhé, lưu ý cách kết nối này chỉ hỗ trợ kết nối bàn phím và chuột, không hỗ trợ âm thanh, màn hình
+- Cách 2: Mô phỏng điều khiển OTG (Không khuyến khích sử dụng vì dễ gây lag): Với lựa chọn này chỉ cần bạn bật được gỡ lỗi USB rồi bấm vào nút này là được nhé, lưu ý cách kết nối này chỉ hỗ trợ kết nối bàn phím và chuột, không hỗ trợ âm thanh, màn hình
 
 <img width="646" height="415" alt="image" src="https://github.com/user-attachments/assets/19ca722e-70ee-47ed-b62b-e8dd01517918" />
 
+-Cách 3: Điều khiển qua wifi (Không khuyến khích vì độ trễ phụ thuộc vào cường độ wifi, dễ bị hiện tượng độ trễ cao)
+
+<img width="1064" height="414" alt="image" src="https://github.com/user-attachments/assets/b067c6f7-fd98-4a5f-8ef1-a3d0e5b29d98" />
+
+-> Sau khi đã kết nối được thì thao tác tiếp theo y hệt Cách 1
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
