@@ -32,7 +32,7 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 -> Redmi: https://www.youtube.com/watch?v=0XYzub0j70k
 
--> Lưu ý: Nếu những dòng máy nào có hai hay nhiều dòng gỡ lỗi USB thì bật cả hết lên nhé
+-> Lưu ý: Nếu những dòng máy nào có hai hay nhiều dòng gỡ lỗi USB thì bật hết lên nhé
 
 <img width="422" height="905" alt="image" src="https://github.com/user-attachments/assets/a8e2db73-0e2b-4177-b3e3-9ee828c82169" />
 
