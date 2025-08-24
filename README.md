@@ -12,7 +12,7 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 <img width="1192" height="927" alt="image" src="https://github.com/user-attachments/assets/b643ce2f-becf-402a-ac98-ed1498cf498f" />
 
-<img width="1187" height="801" alt="image" src="https://github.com/user-attachments/assets/3f32d451-4719-437b-a65c-935ed32798de" />
+<img width="1199" height="928" alt="image" src="https://github.com/user-attachments/assets/83cc7fb1-4bbc-460c-a770-cf7b94402f19" />
 
 - Bước 1: Nhập key kích hoạt được cung cấp:
 
