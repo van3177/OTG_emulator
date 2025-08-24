@@ -26,9 +26,9 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/084f0437-d063-4340-b7f0-20cfc9279a3b" />
 
--> Nếu cắm vào nó đã hiện thiết bị lên như này thì đã thành công :
+-> Nếu cắm vào nó đã hiện thiết bị lên như này thì đã thành công:
 
-<img width="647" height="419" alt="image" src="https://github.com/user-attachments/assets/db3155d4-7eab-4b10-9ab9-c031a49e74f5" />
+<img width="643" height="412" alt="image" src="https://github.com/user-attachments/assets/11dd039c-c4eb-427f-a712-8e771b03963e" />
 
 - Bước 5: Qua điện thoại tải GG mouse pro 2 trên CHPlay về
 
