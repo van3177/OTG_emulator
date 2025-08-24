@@ -2,6 +2,18 @@
 
 HƯỚNG DẪN CÀI ĐẶT:
 
+<img width="593" height="420" alt="image" src="https://github.com/user-attachments/assets/86a0fdf3-f9d8-4318-9e16-8a070dc46f0f" />
+
+<img width="828" height="678" alt="image" src="https://github.com/user-attachments/assets/c0e79de7-c14a-47df-a36f-f0f32810496b" />
+
+<img width="1197" height="927" alt="image" src="https://github.com/user-attachments/assets/6dd46e10-5425-4516-bc45-96ecc087697c" />
+
+<img width="1198" height="808" alt="image" src="https://github.com/user-attachments/assets/87cefd29-9129-4294-8146-fb8e4b1c0db5" />
+
+<img width="1192" height="927" alt="image" src="https://github.com/user-attachments/assets/b643ce2f-becf-402a-ac98-ed1498cf498f" />
+
+<img width="1187" height="801" alt="image" src="https://github.com/user-attachments/assets/3f32d451-4719-437b-a65c-935ed32798de" />
+
 - Bước 1: Nhập key kích hoạt được cung cấp:
 
 <img width="489" height="162" alt="image" src="https://github.com/user-attachments/assets/76cf22fa-47ef-408e-8813-cc36d0cb59d4" />
@@ -16,9 +28,9 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 <img width="647" height="419" alt="image" src="https://github.com/user-attachments/assets/db3155d4-7eab-4b10-9ab9-c031a49e74f5" />
 
-- Bước 4: Tải GG mouse pro 2 trên CHPlay:
+- Bước 4: Qua điện thoại tải GG mouse pro 2 trên CHPlay về
 
-- Bước 5: Kích hoạt GG mouse pro (Lưu ý: Nếu máy bạn hỗ trợ bật gỡ lỗi qua wifi thì nên sài cách 2 trong bước 3 nhé): (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA)
+- Bước 5: Kích hoạt GG mouse pro (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA - Lưu ý: Nếu máy bạn hỗ trợ bật gỡ lỗi qua wifi thì nên sài cách 2 trong bước 3 nhé)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
