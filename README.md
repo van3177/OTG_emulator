@@ -16,13 +16,23 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 <img width="1199" height="928" alt="image" src="https://github.com/user-attachments/assets/83cc7fb1-4bbc-460c-a770-cf7b94402f19" />
 
-- Bước 2 Nhập key kích hoạt được cung cấp:
+- Bước 2: Nhập key kích hoạt được cung cấp:
 
 <img width="489" height="162" alt="image" src="https://github.com/user-attachments/assets/76cf22fa-47ef-408e-8813-cc36d0cb59d4" />
 
-- Bước 3 Kích hoạt chế độ nhà phát triển và bật gỡ lỗi USB trên android (tuỳ vào từng dòng máy, mọi người có thể lên google để tham khảo nha !!!)
+- Bước 3: Kích hoạt chế độ nhà phát triển và bật gỡ lỗi USB trên android (tuỳ vào từng dòng máy, mọi người có thể lên google để tham khảo nha, mình có 1 số video để ae tham khảo !!!)
 
-- Bước 4 Kết nối điện thoại vào máy tính qua dây cáp:
+-> Samsung: https://www.youtube.com/watch?v=ohIw9JRMw4c
+
+-> OPPO: https://www.youtube.com/watch?v=6WOagQFRGjE
+
+-> Xiaomi: https://www.youtube.com/watch?v=lkI0-n4uamM
+
+-> Realme: https://www.youtube.com/watch?v=g8o_r_tya08
+
+-> Redmi: https://www.youtube.com/watch?v=0XYzub0j70k
+
+- Bước 4: Kết nối điện thoại vào máy tính qua dây cáp:
 
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/084f0437-d063-4340-b7f0-20cfc9279a3b" />
 
