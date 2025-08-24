@@ -32,6 +32,10 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 -> Redmi: https://www.youtube.com/watch?v=0XYzub0j70k
 
+-> Lưu ý: Nếu những dòng máy nào có hai hay nhiều dòng gỡ lỗi USB thì bật cả hết lên nhé
+
+<img width="422" height="905" alt="image" src="https://github.com/user-attachments/assets/a8e2db73-0e2b-4177-b3e3-9ee828c82169" />
+
 - Bước 4: Kết nối điện thoại vào máy tính qua dây cáp:
 
 <img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/084f0437-d063-4340-b7f0-20cfc9279a3b" />
