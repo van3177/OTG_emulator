@@ -26,7 +26,7 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 -> OPPO: https://www.youtube.com/watch?v=6WOagQFRGjE
 
--> Xiaomi, Redmi: https://www.youtube.com/watch?v=lkI0-n4uamM
+-> Xiaomi, Redmi, POCO: https://www.youtube.com/watch?v=lkI0-n4uamM
 
 -> Realme: https://www.youtube.com/watch?v=g8o_r_tya08
 
