@@ -18,7 +18,7 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 - Bước 4: Tải GG mouse pro 2 trên CHPlay:
 
-- Bước 5: Kích hoạt GG mouse pro: (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA)
+- Bước 5: Kích hoạt GG mouse pro(Lưu ý: Nếu máy bạn hỗ trợ bật gỡ lỗi qua wifi thì nên sài cách 2 trong bước 3 nhé): (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
