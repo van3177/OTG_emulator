@@ -34,7 +34,7 @@ HƯỚNG DẪN CÀI ĐẶT:
 
 <img width="419" height="936" alt="image" src="https://github.com/user-attachments/assets/a090328d-0661-42a6-85c6-e49a3fd19704" />
 
-- Bước 6: Kích hoạt GG mouse pro (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA - Lưu ý: Nếu máy bạn hỗ trợ bật gỡ lỗi qua wifi thì nên sài cách 2 trong bước 3 nhé)
+- Bước 6: Kích hoạt GG mouse pro (Video hướng dẫn kích hoạt: https://www.youtube.com/watch?v=Fne2vOsUzFA - Lưu ý: Nếu máy bạn hỗ trợ bật gỡ lỗi qua wifi thì nên sài cách 2 ở bước 3 trong video hướng dẫn kích hoạt nhé)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
