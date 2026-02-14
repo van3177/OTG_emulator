@@ -1,5 +1,7 @@
 # OTG_emulator
 
+DEMO: https://www.youtube.com/watch?v=iFb3-53DmiU
+
 HƯỚNG DẪN CÀI ĐẶT:
 
 - Bước 1: Tạo folder bypass defender (Nếu cách này không giải nén được thì bạn tắt cả defender đi rồi thực hiện, xong xuôi bật lại bình thường)
