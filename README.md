@@ -72,6 +72,11 @@ HƯỚNG DẪN SỬ DỤNG APP OTG EMULATOR:
 
 HƯỚNG DẪN SỬ DỤNG CƠ BẢN VỀ GG MOUSE PRO:
 
+- Cách kích hoạt GG mouse pro crack để sử dụng:
+ 
+ <img width="856" height="506" alt="Messenger_creation_6554B4A0-0747-4D0E-9012-FD5EB1CE92D5 (1)" src="https://github.com/user-attachments/assets/23ee2c08-22d5-4259-9d2e-1871b430809b" />
+
+
 - SETUP KEYMAP (Video hướng dẫn: https://www.youtube.com/watch?v=aQ92bwH7Ybk&t=205s0):
 
 <img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/a919dd89-d677-4b33-a614-c2173041ac0c" />
